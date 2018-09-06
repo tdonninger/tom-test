@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  Smiile
+
+  Created by Thomas Donninger on 05/09/2018.
+  Copyright © 2018 Voodoo. All rights reserved.
+*/
+
+//Common
+"common.email" = "Email";
+"common.email.placeholder" = "Ex : tom@voodoo.fr";
+"common.password" = "Mot de passe";
+"common.password.placeholder" = "••••••";
+"common.submit" = "Valider";
+"common.error" = "Erreur";
+"common.ok" = "Ok";
+"common.home" = "Accueil";
+"common.request" = "Demander";
+"common.message" = "Messagerie";
+"common.notification" = "Notifications";
+"common.menu" = "Menu";
+"common.profile" = "Profile";
+"common.search" = "Rechercher";
+"common.cancel" = "Annuler";
+
+//Onboarding
+"onboarding.info.1" = "Explication sur les fonctionnalitées de l'app.\nFeature principale.";
+"onboarding.info.2" = "Explication sur les fonctionnalitées de l'app.\nAvantage 1.";
+"onboarding.info.3" = "Explication sur les fonctionnalitées de l'app.\nAvantage 2.";
+"onboarding.info.4" = "Explication sur les fonctionnalitées de l'app.\nAvantage 3.";
+"onboarding.login" = "Se connecter";
+"onboarding.register" = "M'inscrire";
+"onboarding.fb.login" = "Facebook Connect";
+
+//Register
+"register.title" = "Pour vous inscrire merci de remplir le formulaire ci-dessous.";
+"register.name" = "Nom";
+"register.name.placeholder" = "Ex : Doe";
+"register.firstname" = "Prénom";
+"register.firstname.placeholder" = "Ex : John";
+"register.address" = "Adresse";
+"register.address.placeholder" = "Ex : 2 rue paradis, 75010 Paris";
+
+//Login
+"login.title" = "Merci de saisir votre email et mot de passe pour vous connecter";
+
+//Form
+"form.error" = "Merci de corriger les champs %@.";
+
+//Menu
+"menu.section.1" = "Profil";
+"menu.profile" = "Mon profil";
+"menu.settings" = "Mes règlages";
+"menu.location" = "Mes réseaux";
+"menu.section.2" = "Mon quartier";
+"menu.neighbour.life" = "Ma vie locale";
+"menu.neighbour" = "Mes voisins";
+"menu.news" = "Actus";
+"menu.section.3" = "Autre";
+"menu.help" = "Aide et contact";
+"menu.invite" = "Inviter sur Smiile";
+"menu.logout" = "Déconnexion";
+"menu.delete.account" = "Supprimer mon compte";
+
+//Home
+"home.section.see_all" = "Voir tous >";
